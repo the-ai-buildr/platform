@@ -1,5 +1,5 @@
 # Next.js Multi-Tenant Example
-
+-npx @vercel/platforms@latest add claim-deployment
 A production-ready example of a multi-tenant application built with Next.js 16, featuring custom subdomains for each tenant.
 
 ## Features
